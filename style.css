@@ -4,11 +4,11 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-color: #8834ff;
+    background-image: url('../img/1203095.jpg');
 }
 
 .login-container {
-    background-color: #7198e0;
+    background-color: #edf0f4;
     box-shadow: 0 10 10px rgba(0, 0, 0, 0.1);
     padding: 60px;
     border-radius: 30px;
